@@ -7,9 +7,6 @@ library(reshape2)
 library(tidyverse)
 library(plotly)
 
-setwd('C:/Users/mosqu/Escritorio/RSTUDIO/dashboard_covid')
-casos_covid = read.csv("https://cloud.minsa.gob.pe/s/AC2adyLkHCKjmfm/download/positivos_covid.csv", sep=';')
-
 labels = data.frame(lab = c(1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18),
                     eti = c('0-4','5-9','10-14','15-19','20-24','25-29','30-34','35-39','40-44','45-49','50-54','55-59','60-64','65-69','70-74','75-79','80+','SIN EDAD'))
 
