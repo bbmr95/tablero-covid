@@ -1,0 +1,9 @@
+
+DASHBOARD DE NYT
+https://www.nytimes.com/interactive/2021/us/covid-cases-deaths-tracker.html#anomaly-notes-USA-36998
+
+JOHN HOPKINS
+https://coronavirus.jhu.edu/map.html
+
+WHO
+https://covid19.who.int/
